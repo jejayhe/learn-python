@@ -1,4 +1,4 @@
-##学习python流程
+## 学习python流程
 我瞎想的流程。
 - 先做10-30道[leetcode](leetcode.com) 简单难度的题。（如果语法不会，看资料）
 - leetcode题解 [花花酱](https://www.youtube.com/user/xxfflower)
